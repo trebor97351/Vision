@@ -12,7 +12,7 @@ This is the first full public release including many features such as:
   - more simple install
  
 ### Installation instructions
-
+* you will need to install a web server, with php installed.
 * Clone the repository to your web directory using the command ``$ sh git clone https://github.com/oliverh57/Vision.git``.
 * Edit the file `\setup\config.php` with information about your cameras and decide on an encryption key and username / password.
 * your camera viewer should now be fully operational.
